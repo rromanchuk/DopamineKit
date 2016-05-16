@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Dopamine_Example' do
+  pod 'Dopamine', :path => '../'
+
+  target 'Dopamine_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
