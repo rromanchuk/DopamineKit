@@ -30,6 +30,6 @@ This packages provides a framework for interacting with the Dopamine API from a 
 
   s.ios.deployment_target = '8.0'
 
-  s.ios.vendored_frameworks = 'dopamine-ios/Frameworks/DopamineKit.framework'
+  s.ios.vendored_frameworks = 'Dopamine/Frameworks/DopamineKit.framework'
   
  end
