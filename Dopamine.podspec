@@ -23,22 +23,13 @@ Make your iOS app habit-forming using the Dopamine API.
 This packages provides a framework for interacting with the Dopamine API from a Cocoa based iOS application. After you have received your API key and configured the actions and reinforcements relevant to your app on the developer dashboard, you may use this framework to place 'tracking', and 'reinforcement' calls from inside your app that will communicate directly with the Dopamine API.
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/Dopamine"
-  # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
+  s.homepage         = "https://github.com/rromanchuk/DopamineKit"
   s.license          = 'MIT'
   s.author           = { "Ryan Romanchuk" => "rromanchuk@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/Dopamine.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => "https://github.com/rromanchuk/DopamineKit.git", :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'Dopamine/Classes/**/*'
+  s.ios.vendored_frameworks = 'dopamine-ios/Frameworks/DopamineKit.framework'
   
-  # s.resource_bundles = {
-  #   'Dopamine' => ['Dopamine/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
-end
+ end

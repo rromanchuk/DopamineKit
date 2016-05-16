@@ -45,6 +45,7 @@
 		87ED28107C1C86E654001BB834A1838E /* Pods-Dopamine_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dopamine_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		8D3AE503BF7919E0D3EA2AAAC1D0ED49 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		94CF057B1CEA5AE100FEE3A5 /* DopamineKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = DopamineKit.framework; sourceTree = "<group>"; };
 		963BD2DE9955347DDF01DE1576EA7546 /* Pods-Dopamine_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Dopamine_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A0E0A3C9EB238F476584FD78D96D26A4 /* Dopamine.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Dopamine.xcconfig; sourceTree = "<group>"; };
 		AE6ECC6DCA183AE8DE64EAEEF2CE7946 /* Pods-Dopamine_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Dopamine_Example-frameworks.sh"; sourceTree = "<group>"; };
@@ -157,6 +158,14 @@
 			);
 			sourceTree = "<group>";
 		};
+		94CF057A1CEA5AE100FEE3A5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				94CF057B1CEA5AE100FEE3A5 /* DopamineKit.framework */,
+			);
+			path = Frameworks;
+			sourceTree = "<group>";
+		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -217,6 +226,7 @@
 		EEC0EFA093AEFAC52A6D7D9CE371DFAE /* Dopamine */ = {
 			isa = PBXGroup;
 			children = (
+				94CF057A1CEA5AE100FEE3A5 /* Frameworks */,
 				CB8695624C16FC7B72708A9B7C7EAD79 /* Classes */,
 			);
 			path = Dopamine;
