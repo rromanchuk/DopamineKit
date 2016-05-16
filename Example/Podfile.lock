@@ -1,0 +1,16 @@
+PODS:
+  - Dopamine (0.1.0)
+
+DEPENDENCIES:
+  - Dopamine (from `../`)
+
+EXTERNAL SOURCES:
+  Dopamine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Dopamine: 4ab4b8743bd204bd3e5b0e4074c229187d698e25
+
+PODFILE CHECKSUM: 1698fbd7c3fbb64e3a15f37c56864fb4e06b708a
+
+COCOAPODS: 1.0.0
