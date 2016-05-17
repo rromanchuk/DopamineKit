@@ -4,45 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Assets.car</key>
-		<data>
-		MFhEXDNP2IFCQs0YuV8u8jnc4/E=
-		</data>
-		<key>DopamineRewards.storyboardc/9r8-fL-hxM-view-bsI-92-rZd.nib</key>
-		<data>
-		Hka86Ir6KoffhrTEngCFwccBx3w=
-		</data>
-		<key>DopamineRewards.storyboardc/FistBump.nib</key>
-		<data>
-		J9fW/LHA9+GIL7oo5bfHtG04szA=
-		</data>
-		<key>DopamineRewards.storyboardc/Info.plist</key>
-		<data>
-		q811SL0N1IPMQQk+le7TpVv6ZG4=
-		</data>
-		<key>DopamineRewards.storyboardc/N2O-FH-7cY-view-WPG-3J-Atv.nib</key>
-		<data>
-		rMZsDe+ZZU1cl58vMJtKx/XVtvw=
-		</data>
-		<key>DopamineRewards.storyboardc/NoImage.nib</key>
-		<data>
-		vjAHELEE9jd4ShOsaKMfv4Bw5MU=
-		</data>
-		<key>DopamineRewards.storyboardc/ThumbsUp.nib</key>
-		<data>
-		OIYKdB4xhqeH6kxW5nr0GTOfj50=
-		</data>
-		<key>DopamineRewards.storyboardc/a4o-jg-UJn-view-Vc9-E2-3mp.nib</key>
-		<data>
-		f5jyvk9bHtSt3aXwmXxqLy1QxAI=
-		</data>
 		<key>Headers/DopamineKit-Swift.h</key>
 		<data>
-		OG23PO3MKKIxwO+RBvnwZoYH8M0=
+		iAotWfRFl7B0btluVnWscd+OYM8=
 		</data>
 		<key>Headers/DopamineKit.h</key>
 		<data>
-		aoV+TIwKy1sVzVBSRqm/g5+QJZk=
+		4nKmwoLOEGIFRIyEaeNZDTNDr+I=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -54,7 +22,7 @@
 		</data>
 		<key>Modules/DopamineKit.swiftmodule/arm.swiftmodule</key>
 		<data>
-		j/rcX/lbJacspn53gLbDDaqWAeM=
+		Bdv4g+Sh8Y+cyLWtE0Ji7ZHY+OA=
 		</data>
 		<key>Modules/DopamineKit.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -62,7 +30,7 @@
 		</data>
 		<key>Modules/DopamineKit.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		a4mGzxlf33ynQTKQ0Ev1qibuRdw=
+		ZQmvK7mz57zgH0FlNDx+p/ENrK0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,114 +39,26 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Assets.car</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MFhEXDNP2IFCQs0YuV8u8jnc4/E=
-			</data>
-			<key>hash2</key>
-			<data>
-			tS7O6jkFRskS/CjS+3JMfkeFmkJN7em73Yn1nLK9MFU=
-			</data>
-		</dict>
-		<key>DopamineRewards.storyboardc/9r8-fL-hxM-view-bsI-92-rZd.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Hka86Ir6KoffhrTEngCFwccBx3w=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZAFnO8f/N5Q31aS7v9wXbygn1IvrStHSzZMUhB/3msw=
-			</data>
-		</dict>
-		<key>DopamineRewards.storyboardc/FistBump.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			J9fW/LHA9+GIL7oo5bfHtG04szA=
-			</data>
-			<key>hash2</key>
-			<data>
-			8svovS4rwQVb473Fc8Fh8J1iAXRGZHWdSXD1tEEZhXM=
-			</data>
-		</dict>
-		<key>DopamineRewards.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			q811SL0N1IPMQQk+le7TpVv6ZG4=
-			</data>
-			<key>hash2</key>
-			<data>
-			hcjpXtRSkq33F8943GDbKpY0lWNO3k3mV3sNrUvjwoM=
-			</data>
-		</dict>
-		<key>DopamineRewards.storyboardc/N2O-FH-7cY-view-WPG-3J-Atv.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rMZsDe+ZZU1cl58vMJtKx/XVtvw=
-			</data>
-			<key>hash2</key>
-			<data>
-			fO9fAP2vcSib4ToNTgnsFvkl2+OHwzLMplUB65o9hPY=
-			</data>
-		</dict>
-		<key>DopamineRewards.storyboardc/NoImage.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vjAHELEE9jd4ShOsaKMfv4Bw5MU=
-			</data>
-			<key>hash2</key>
-			<data>
-			ENakfq6KSLFedxK5zWrKMqFHlk8zSphzhCJxzBb4ZfM=
-			</data>
-		</dict>
-		<key>DopamineRewards.storyboardc/ThumbsUp.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OIYKdB4xhqeH6kxW5nr0GTOfj50=
-			</data>
-			<key>hash2</key>
-			<data>
-			3qwdQVa1i4oC9YvhjKs4d2K8iZRg2V55bwRhIlxKn6M=
-			</data>
-		</dict>
-		<key>DopamineRewards.storyboardc/a4o-jg-UJn-view-Vc9-E2-3mp.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			f5jyvk9bHtSt3aXwmXxqLy1QxAI=
-			</data>
-			<key>hash2</key>
-			<data>
-			GqsGdxgiIktqTqylpdezBQA2r3408wVfBaNY//bObt8=
-			</data>
-		</dict>
 		<key>Headers/DopamineKit-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OG23PO3MKKIxwO+RBvnwZoYH8M0=
+			iAotWfRFl7B0btluVnWscd+OYM8=
 			</data>
 			<key>hash2</key>
 			<data>
-			p59uTu6nNBC8LdcLyP87hSAux+SJHLVD/nRyTWQmWEw=
+			bQGCnEStqxDyrPR7kLkwH0577moHXa29t5ywrHl/h44=
 			</data>
 		</dict>
 		<key>Headers/DopamineKit.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aoV+TIwKy1sVzVBSRqm/g5+QJZk=
+			4nKmwoLOEGIFRIyEaeNZDTNDr+I=
 			</data>
 			<key>hash2</key>
 			<data>
-			7yBn/plMCyX22AlWswhAnKc1DJo9CYWdo3DxqvbKI1M=
+			xjRfPxeknpYhs0zsDb1FMJF7vFFQreeN6NBmdVOCivU=
 			</data>
 		</dict>
 		<key>Modules/DopamineKit.swiftmodule/arm.swiftdoc</key>
@@ -196,11 +76,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j/rcX/lbJacspn53gLbDDaqWAeM=
+			Bdv4g+Sh8Y+cyLWtE0Ji7ZHY+OA=
 			</data>
 			<key>hash2</key>
 			<data>
-			jakhnuX896PwFTMUEczFaxM/DoY37t5Tnyh8yC8tzuE=
+			CsNVOneuswcOL3C7hgBUiKV4gNEMarfsVW8A/OA38Tc=
 			</data>
 		</dict>
 		<key>Modules/DopamineKit.swiftmodule/arm64.swiftdoc</key>
@@ -218,11 +98,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			a4mGzxlf33ynQTKQ0Ev1qibuRdw=
+			ZQmvK7mz57zgH0FlNDx+p/ENrK0=
 			</data>
 			<key>hash2</key>
 			<data>
-			QdE8DSQXTHlrHDktu9JXHsGR5g6FNfuV5XogiavNEzM=
+			xlbqK0cLgHmB9nMd0uaBoGxCovJHJ0DSxeUeWXJrc10=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
